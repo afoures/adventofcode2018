@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-import pprint
-
-pp = pprint.PrettyPrinter()
 
 with open('input', 'r') as fd:
     lines = fd.readlines()
